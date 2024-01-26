@@ -1,2 +1,2 @@
 # Integrated_Project
- information and data analysis for insurance claims
+ Information and data analysis for insurance claims
